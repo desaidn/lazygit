@@ -1,2 +1,8 @@
 os:
   editPreset: "nvim"
+gui:
+  theme:
+    selectedLineBgColor:
+      - "#2a2d2e"
+    selectedRangeBgColor:
+      - "#2a2d2e"
