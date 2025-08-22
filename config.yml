@@ -3,6 +3,6 @@ os:
 gui:
   theme:
     selectedLineBgColor:
-      - "#2a2d2e"
+      - "#404447"
     selectedRangeBgColor:
-      - "#2a2d2e"
+      - "#404447"
